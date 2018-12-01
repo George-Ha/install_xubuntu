@@ -36,6 +36,7 @@ TODO
 - git
 - GThumb
 - Lightning calendar
+- Shutter
 - Virtualbox (must confirm EULA manually)
 ```
 sudo apt-get install keepassx
@@ -47,6 +48,7 @@ sudo snap install vlc
 sudo apt-get install git
 sudo apt-get install gthumb
 sudo apt-get install xul-ext-lightning
+sudo apt-get install shutter
 sudo apt virtualbox virtualbox-ext-pack
 
 sudo apt-get install curl
