@@ -30,6 +30,7 @@ TODO
 - KeePassX
 - Double Commander
 - Chromium
+- Clipman
 - Audacious
 - VLC
 - git
@@ -40,6 +41,7 @@ TODO
 sudo apt-get install keepassx
 sudo apt-get install doublecmd-gtk
 sudo apt-get install chromium-browser
+sudo apt-get install xfce4-clipman
 sudo apt-get install audacious
 sudo snap install vlc
 sudo apt-get install git
