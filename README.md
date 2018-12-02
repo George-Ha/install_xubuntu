@@ -39,6 +39,7 @@ ToDo in docker?
 - Cheese
 - Chromium
 - Gimp
+- Gnome system monitor
 - Clipman (ToDo: panel launcher)
 - Audacious
 - exfat-fuse exfat-utils (for SD cards >32 GB)
@@ -61,6 +62,7 @@ sudo apt-get install calibre
 sudo apt-get install cheese
 sudo apt-get install chromium-browser
 sudo apt-get install gimp
+sudo snap install gnome-system-monitor
 sudo apt-get install xfce4-clipman
 sudo apt-get install audacious
 sudo apt-get install exfat-fuse exfat utils
