@@ -47,6 +47,7 @@ ToDo in docker?
 - Octave
 - Shutter
 - Virtualbox (must confirm EULA manually)
+- Capslock indicator
 ```
 sudo apt-get install keepassx
 sudo apt install docker.io
@@ -63,7 +64,9 @@ sudo apt-get install xul-ext-lightning
 sudo apt-get install octave
 sudo apt-get install shutter
 sudo apt virtualbox virtualbox-ext-pack
-
+sudo add-apt-repository ppa:tsbarnes/indicator-keylock
+sudo apt update
+sudo apt install indicator-keylock
 sudo apt-get install curl
 curl -s "https://get.sdkman.io" | bash
 sdk install java
