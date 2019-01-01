@@ -47,6 +47,7 @@ ToDo in docker?
 - git
 - GThumb
 - gstreamer library (video plugin for gthumb)
+- jhead
 - Lightning calendar
 - Octave
 - rar
@@ -71,6 +72,7 @@ sudo snap install vlc
 sudo apt-get install git
 sudo apt-get install gthumb
 sudo apt install gstreamer1.0-gtk3
+sudo apt-get install jhead
 sudo apt-get install xul-ext-lightning
 sudo apt-get install octave
 sudo apt-get install rar
