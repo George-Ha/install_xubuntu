@@ -21,8 +21,6 @@ Icons = Xfce darkest
 Font = 14 pt
 - VeraCrypt
 - Google Chrome
-TODO
-- Skype
 - Zim wiki
 - Mega
 - Eclipse
@@ -52,6 +50,7 @@ ToDo in docker?
 - Octave
 - rar
 - Shutter
+- Skype
 - Virtualbox (must confirm EULA manually)
 - Capslock indicator
 - SDKman + java
@@ -77,6 +76,7 @@ sudo apt-get install xul-ext-lightning
 sudo apt-get install octave
 sudo apt-get install rar
 sudo apt-get install shutter
+sudo snap install skype --classic
 sudo apt virtualbox virtualbox-ext-pack
 sudo add-apt-repository ppa:tsbarnes/indicator-keylock
 sudo apt update
