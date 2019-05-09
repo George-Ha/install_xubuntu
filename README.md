@@ -49,7 +49,7 @@ ToDo in docker?
 - Lightning calendar
 - Octave
 - rar
-- Shutter
+- Shutter (if 'edit image' is disabled, follow https://itsfoss.com/shutter-edit-button-disabled/)
 - Skype
 - Virtualbox (must confirm EULA manually)
 - Capslock indicator
